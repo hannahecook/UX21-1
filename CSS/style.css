@@ -156,9 +156,9 @@ footer li {
 .myWork {
   padding: 60px 30px;
   padding-top: 10px;
-  background-color: rgb(255, 238, 208);
+  background-color: rgb(143, 165, 118);
   font-family: 'Quicksand', sans-serif;
-  color: rgb(255, 238, 208);
+  color: rgb(0, 0, 0);
 }
 .workGrid {
   display: grid;
@@ -248,7 +248,7 @@ footer li {
 }
 
 .firstp {
-    background-color: rgb(255, 238, 208);
+    background-color: rgb(143, 165, 118);
 }
 
 .jumbotron {
